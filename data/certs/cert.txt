@@ -1,0 +1,59 @@
+Certificate: Workshop Certification
+Issuer: Indian Institute of Embedded Systems
+Date Issued: July 2026
+Credential ID: Not Available
+Skills Covered: Embedded systems fundamentals, embedded hardware, microcontrollers, electronics, practical workshop experience.
+
+Certificate: Build an AI Agent
+Issuer: IBM
+Date Issued: July 2026
+Credential ID: Not Available
+Skills Covered: Artificial Intelligence, AI agents, prompt engineering, AI workflows, IBM AI technologies.
+
+Certificate: Certificate of Participation in Main Quiz (15 Questions) - Google Gemini QuizOff 2026
+Issuer: Unstop
+Date Issued: June 2026
+Credential ID: ee434224-54cd-478e-926c-80442eaac98c
+Skills Covered: Generative AI, Google Gemini, AI concepts, large language models (LLMs), AI applications.
+
+Certificate: Claude Code in Action
+Issuer: Anthropic
+Date Issued: May 2026
+Credential ID: w898k5d2ayhf
+Skills Covered: Claude AI, AI-assisted coding, prompt engineering, software development using AI, generative AI.
+
+Certificate: AI Fundamentals: Foundations for Understanding AI
+Issuer: IBM
+Date Issued: March 2026
+Credential ID: Not Available
+Skills Covered: Artificial Intelligence fundamentals, machine learning basics, AI ethics, data-driven decision making, AI applications.
+
+Certificate: Java (Basic)
+Issuer: HackerRank
+Date Issued: March 2026
+Credential ID: Not Available
+Skills Covered: Java programming, object-oriented programming (OOP), control statements, functions, arrays, problem solving.
+
+Certificate: AWS Academy Graduate - Cloud Foundations - Training Badge
+Issuer: Amazon Web Services (AWS)
+Date Issued: March 2026
+Credential ID: Not Available
+Skills Covered: Amazon Web Services (AWS), AWS Identity and Access Management (IAM), cloud computing fundamentals, core AWS services, cloud security, cloud architecture.
+
+Certificate: VLSI SoC Design using Verilog HDL
+Issuer: Maven Silicon
+Date Issued: March 2026
+Credential ID: MS38410
+Skills Covered: VLSI design, System-on-Chip (SoC), Verilog HDL, digital logic design, RTL design, hardware description languages.
+
+Certificate: #ATAGTR2023 Delegate Certificate (2nd & 3rd Virtual Edition, Pune)
+Issuer: Agile Testing Alliance
+Date Issued: December 2023
+Credential ID: e41a25c212900
+Skills Covered: Agile testing, software testing methodologies, quality assurance (QA), Agile practices, software development lifecycle (SDLC).
+
+Certificate: Certificate of Participation
+Issuer: Paranox 2.0 Hackathon | TechXNinjas
+Date Issued: November 2025
+Credential ID: Not Available
+Skills Covered: Hackathon participation, problem solving, teamwork, software development, innovation, project development.
